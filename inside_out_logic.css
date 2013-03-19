@@ -1,0 +1,30 @@
+svg {
+    display: block;
+    outline: 1px solid gray;
+    margin-top: 10px;
+}
+
+#svg2 {
+    page-break-before: always;
+    display: none;
+}
+
+span {
+    margin-left: 20px;
+}
+label {
+    cursor:pointer;
+}
+
+
+@media print {
+    svg {
+        border: none;
+        outline: none;
+        padding: 0;
+        margin: 0;
+    }
+    label, input, span {
+        display: none;
+    }
+}
