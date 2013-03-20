@@ -3,7 +3,8 @@ inside-out-logic
 
 #Create your own inside-out cubes from paper  
 
-Inspired by youtube video [Inside-Out Logic by George Hart](http://www.youtube.com/watch?v=dmzxWXEbSRE)
+Inspired by youtube video [Inside-Out Logic by George Hart](http://www.youtube.com/watch?v=dmzxWXEbSRE)  
+Check out his channel he has a lot of great stuff.
 
 ![Results](/img/result_combined.jpg)
 
@@ -22,7 +23,7 @@ Inspired by youtube video [Inside-Out Logic by George Hart](http://www.youtube.c
 4. Cut them out (leave a bit of extra paper on some of the edges for sticking them together, see the red edges below)  
 5. For each shape, fold 4 pieces printed-side-out, and the other 4 printed-side-in (this gives us the symmetry we need)  
 6. Glue each piece  
-7. For each shape use strips of paper or tape to glue 8 pieces together to form one of the cubes  
+7. For each shape use strips of paper or tape as joints to connect 8 pieces together into one of the cubes (check the youtube video to see how the cubes folds)  
 
 ![Templates with colored edges](/img/edges_combined.jpg)
 
