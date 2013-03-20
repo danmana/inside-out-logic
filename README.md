@@ -29,7 +29,7 @@ Inspired by youtube video [Inside-Out Logic by George Hart](http://www.youtube.c
 #Tips and Tricks
 * If you use thick paper and your printer can't print on it, print a template on a regular piece of paper, cut it out, and use a pencil to trace around this template.
 * If you line them up by hand you can fit all the needed pieces on 4 pieces of A4 paper
-* You can generate your own PDFs by printing the html page (size and alignment can be adjusted)
 * There are light gray versions of all PDFs, in case you want then printed lines to be less visible
+* You can generate your own PDFs by printing the html page (size and alignment can be adjusted)
 
 
