@@ -1,14 +1,14 @@
 inside-out-logic
 ================
 
-#Create your own inside-out cubes from paper  
+# Create your own inside-out cubes from paper  
 
 Inspired by youtube video [Inside-Out Logic by George Hart](http://www.youtube.com/watch?v=dmzxWXEbSRE)  
 Check out his channel he has a lot of great stuff.
 
 ![Results](/img/result_combined.jpg)
 
-##What you need
+## What you need
 1. Paper  
 2. Printer  
 3. Scissors or cutter
@@ -16,7 +16,7 @@ Check out his channel he has a lot of great stuff.
 
 ![What you need](/img/DSC_2467.jpg)
 
-##How to
+## How to
 1. Download one of the provided PDFs (I used [two by two - black](Inside out logic (two by two - black\).pdf?raw=true))  
 2. Print both shapes  
 3. You should have 8 pieces of each shape  
@@ -27,7 +27,7 @@ Check out his channel he has a lot of great stuff.
 
 ![Templates with colored edges](/img/edges_combined.jpg)
 
-#Tips and Tricks
+# Tips and Tricks
 * If you use thick paper and your printer can't print on it, print a template on a regular piece of paper, cut it out, and use a pencil to trace around this template.
 * If you line them up by hand you can fit all the needed pieces on 4 pieces of A4 paper
 * There are light gray versions of all PDFs, in case you want the printed lines to be less visible
